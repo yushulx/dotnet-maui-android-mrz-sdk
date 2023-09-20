@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	  <PackageId>MrzSDK</PackageId>
+	  <Version>0.1.2</Version>
+	  <Authors>yushulx</Authors>
+	  <Company>Dynamsoft</Company>
+    <TargetFramework>net7.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Description>Dynamsoft MRZ SDK for Android</Description>
+	  <PackageTags>MRZ;Android;passport;id-card;visa;machine-readable-zone</PackageTags>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="DynamsoftCore.aar" />
+    <None Remove="DynamsoftLabelRecognizer.aar" />
+    <None Remove="MRZLib-release.aar" />
+  </ItemGroup>
+</Project>
