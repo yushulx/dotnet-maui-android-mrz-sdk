@@ -8,7 +8,7 @@ This repository showcases the integration of an Android MRZ (Machine-Readable Zo
 
 ## Prerequisites
 - Download [Dynamsoft Label Recognizer for Android](https://www.dynamsoft.com/label-recognition/downloads) and extract the `DynamsoftCore.aar` and `DynamsoftLabelRecognizer.aar` files from the zip file.
-- `MRZLib.aar`: Get the source code of the Android MRZ SDK from [https://github.com/Dynamsoft/label-recognizer-mobile-samples/tree/master/android/MRZScanner/MRZLib](https://github.com/Dynamsoft/label-recognizer-mobile-samples/tree/master/android/MRZScanner/MRZLib). Then, build the Android AAR library in **Android Studio**.
+- `MRZLib.aar`: Get the source code of the Android MRZ SDK from [https://github.com/Dynamsoft/mrz-scanner-for-mobile-samples/tree/main/android/MRZScanner](https://github.com/Dynamsoft/mrz-scanner-for-mobile-samples/tree/main/android/MRZScanner). Then, build the Android AAR library in **Android Studio**.
 
 ## Android Library Binding for .NET MAUI
 1. Import the Android library binding project from the `sdk` folder to **Visual Studio**.
