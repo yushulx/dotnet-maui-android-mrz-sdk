@@ -1,4 +1,4 @@
-The project has been migrated to https://github.com/yushulx/dotnet-mrz-sdk/tree/main/android
+The project has been migrated to https://github.com/yushulx/dotnet-mrz-sdk/tree/main/android.
 
 --------------------------------------------------------------
 
