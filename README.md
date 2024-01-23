@@ -1,3 +1,7 @@
+The project has been migrated to https://github.com/yushulx/dotnet-mrz-sdk/tree/main/android
+
+--------------------------------------------------------------
+
 # Android MRZ SDK for .NET MAUI
 This repository showcases the integration of an Android MRZ (Machine-Readable Zone) SDK into a .NET MAUI project. By using this SDK, you can easily add MRZ recognition capabilities to your .NET MAUI Android application.
 
